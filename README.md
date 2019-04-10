@@ -23,7 +23,7 @@ Remember when you said you wanted a cool flamethrower in game? Or that time when
 
 Click the Edit Mode button in the top left corner of the page to enable edit mode. Several new buttons will appear, each allowing you to modify the traits of the barrel you want to place. Hover over the blue circle icons to see what a specific item does.
 
-`Q` to place barrels. Barrels place in order of last placed to first. 
+`Q` to place barrels. New barrels are drawn on top. 
 
 `F` to remove barrels. WARNING: Removes all barrels within 1° at once! 
 
