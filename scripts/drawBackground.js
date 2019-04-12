@@ -1,6 +1,6 @@
 function drawStuff() {
-	ctx.drawRect(0, 0, c.width, c.height);
-	ctx.drawRect(0, 0, c.width, c.height);
+	ctx.clearRect(0, 0, c.width, c.height);
+	ctx.clearRect(0, 0, c.width, c.height);
 	lines = {};
 	lines.v = 0;
 	lines.h = 0;
